@@ -11,4 +11,3 @@ console.log(numero >= 10 && numero<28)
  console.log(2050 - anoNascimento)
  console.log(new Date() .getFullYear())
  console.log(new Date())
-
